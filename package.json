@@ -1,0 +1,23 @@
+{
+  "name": "api_rate_limiting-hit_counting-error_counting",
+  "version": "1.0.0",
+  "description": "Api_rate_limiting-Hit_counting-Error_counting in using Middleware with sending data(username) autherization header.",
+  "main": "middlewareServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifulshark/Api_rate_limiting-Hit_counting-Error_counting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifulshark/Api_rate_limiting-Hit_counting-Error_counting/issues"
+  },
+  "homepage": "https://github.com/saifulshark/Api_rate_limiting-Hit_counting-Error_counting#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
